@@ -1,7 +1,0 @@
-👋 hello yes this is chirpr
-
-🛠️ you can now develop chirpr yes
-
-🔍 this thing is just vscode
-
-📝 run the app once youre ready and it will auto expose
