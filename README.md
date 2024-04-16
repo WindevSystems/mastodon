@@ -1,3 +1,14 @@
+# ChirpR
+
+A fork of [Chuckya](https://github.com/TheEssem/mastodon) with some styling and software modifications
+
+Considering it's just been forked, we dont have a comprehensive list of changes to display here. We'll add some here over time
+
+## Contributing
+do it the same way you normally would?
+
+Original readme down below (ITS A 3 IN 1 SPECIAL!!11!!!!!111)
+
 # <img src="https://github.com/TheEssem/mastodon/raw/main/app/javascript/icons/android-chrome-256x256.png" width="128"> Chuckya
 
 Chuckya is a close-to-upstream soft fork of Mastodon Glitch Edition (more commonly known as glitch-soc) that aims to introduce more experimental features/fixes with the goal of making the overall experience more enjoyable. Although it's mainly developed for and used on the [wetdry.world](https://wetdry.world) instance, it can be deployed by any server admin as a drop-in, backwards-compatible replacement for Mastodon.
