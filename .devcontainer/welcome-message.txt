@@ -1,8 +1,7 @@
-👋 Welcome to "Mastodon" in GitHub Codespaces!
+👋 hello yes this is chirpr
 
-🛠️  Your environment is fully setup with all the required software.
+🛠️ you can now develop chirpr yes
 
-🔍 To explore VS Code to its fullest, search using the Command Palette (Cmd/Ctrl + Shift + P or F1).
+🔍 this thing is just vscode
 
-📝 Edit away, run your app as usual, and we'll automatically make it available for you to access.
-
+📝 run the app once youre ready and it will auto expose

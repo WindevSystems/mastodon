@@ -1,5 +1,5 @@
 {
-  "name": "Mastodon on GitHub Codespaces",
+  "name": "ChirpR - Codespaces",
   "dockerComposeFile": "../docker-compose.yml",
   "service": "app",
   "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
